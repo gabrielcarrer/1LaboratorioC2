@@ -1,0 +1,63 @@
+/*Write your style here*/
+*{
+	padding: 0;
+	margin: 0;
+}
+.fondo{
+	background: url("../images/banner.jpg")no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.parrafo1{
+	text-align: center;
+}
+.principal{
+	color: #fff;
+}
+.a{
+	padding: 10px;
+}
+.a:hover{
+	background: #037FFB;
+}
+.linea{
+	background-color: #ffffff; 
+}
+.image{
+	width: 100%;
+	border: 0;
+}
+.prin{
+	padding: 100px;
+	color: #ffffff;
+}
+.boton{
+    padding: 10px;
+    font-size: 15px;
+    color: black;
+    background-color:red;
+    border-radius: 5px;
+    border: 2px solid #fff;
+}
+.flecha{
+	background-color: #929292;
+}
+.pequeño{
+	color: #929292;
+	font-size: 15px;
+}
+.text-opaco{
+	color: #57585C;
+}
+.cont3{
+	background-color: #037FFB;
+	color: #ffffff;
+}
+.No4{
+	color: #000;
+}
+.opaco{
+	color: #98989A;
+}
